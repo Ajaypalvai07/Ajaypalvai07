@@ -50,7 +50,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="(https://github.com/Ajaypalvai07)" target="blank">
+<a href="https://www.linkedin.com/in/ajay-palvai-384750210/" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
