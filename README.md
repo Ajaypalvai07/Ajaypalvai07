@@ -1,50 +1,45 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ajay Palvai</h1>
+<h3 align="center">AI Engineer | Generative AI Developer | Full Stack AI Builder</h3>
 
-# 🚀 Hi 👋 I'm Ajay Palvai
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;LLM+Application+Developer;Generative+AI+Specialist;FastAPI+Developer;RAG+Systems+Builder;Open+Source+Contributor&center=true&width=800&height=45">
+</p>
 
-### 🧠 AI Engineer | 🤖 Generative AI Developer | ⚡ Full Stack AI Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=AI+Engineer+%F0%9F%A4%96;LLM+Application+Developer+%F0%9F%9A%80;RAG+Systems+Builder+%F0%9F%94%A5;FastAPI+%7C+LangChain+%7C+CrewAI+%7C+MCP;Building+Scalable+AI+Products+%F0%9F%8C%9F" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Ajaypalvai07&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/Ajaypalvai07?label=Followers&style=for-the-badge&color=orange" />
-
-<img src="https://img.shields.io/github/stars/Ajaypalvai07?affiliations=OWNER&style=for-the-badge&color=yellow" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ajaypalvai07&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-# 🌌 About Me
+# 💫 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+🚀 AI Engineer with 3+ years of experience building scalable AI systems, intelligent automation platforms, and Generative AI applications.
 
-🚀 AI Engineer with **3+ years** of experience building:
+🧠 Specialized in:
+- Generative AI
+- LLM Applications
+- AI Agents
+- RAG Pipelines
+- Conversational AI
+- Machine Learning
+- Backend AI Systems
 
-- 🤖 Generative AI Applications
-- 🧠 LLM Powered Systems
-- ⚡ AI Agents & Automation
-- 🔥 RAG Pipelines
-- 🎤 Voice AI Applications
-- 📊 AI Analytics Platforms
+⚡ Currently building:
+- AI Interview Platforms
+- Recruitment AI Systems
+- WhatsApp AI Agents
+- Multi-Agent Architectures
+- Voice AI Applications
 
----
+🌱 Exploring:
+- Advanced Agentic AI
+- Multimodal AI
+- MCP
+- LangGraph
+- Autonomous AI Workflows
 
-## 🧠 Specializations
-
-<div align="center">
-
-| AI | Backend | Cloud | Automation |
-|---|---|---|---|
-| LLMs | FastAPI | Azure | n8n |
-| LangChain | MERN Stack | Docker | CrewAI |
-| RAG | PostgreSQL | Redis | MCP |
-| AI Agents | Next.js | MongoDB | LangGraph |
-
-</div>
+💬 Ask me about:
+`Python` `FastAPI` `LLMs` `RAG` `LangChain` `CrewAI` `AI Agents` `GenAI`
 
 ---
 
