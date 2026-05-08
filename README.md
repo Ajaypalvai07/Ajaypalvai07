@@ -1,15 +1,34 @@
 <h1 align="center">Hi 👋, I'm Ajay Palvai</h1>
-<h3 align="center">AI Engineer | Generative AI Developer | Full Stack AI Builder</h3>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+🚀;Generative+AI+Developer+🤖;Full+Stack+AI+Builder+⚡" />
+</h3>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=200&section=header&text=Building%20AI%20That%20Matters&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;LLM+Application+Developer;Generative+AI+Specialist;FastAPI+Developer;RAG+Systems+Builder;Open+Source+Contributor&center=true&width=800&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;LLM+Application+Developer;Generative+AI+Specialist;FastAPI+Developer;RAG+Systems+Builder;Open+Source+Contributor&center=true&width=800&height=45&color=00F7FF&pause=1000&size=22">
 </p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Profile%20Views-77K+-blueviolet?style=for-the-badge" />
 
+<img src="https://img.shields.io/github/followers/Ajaypalvai07?style=for-the-badge&color=00FFFF" />
+
+<img src="https://img.shields.io/github/stars/Ajaypalvai07?style=for-the-badge&color=FFD700" />
+
 </p>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd1YW5wc2FqN2N5cndmMWU3dmR0dzI4M3N0N3JjN3NmYWw4M3F0NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+
+</div>
 
 ---
 
@@ -17,35 +36,84 @@
 
 🚀 AI Engineer with 3+ years of experience building scalable AI systems, intelligent automation platforms, and Generative AI applications.
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+</div>
+
 🧠 Specialized in:
-- Generative AI
-- LLM Applications
-- AI Agents
-- RAG Pipelines
-- Conversational AI
-- Machine Learning
-- Backend AI Systems
+
+- 🤖 Generative AI
+- 🧠 LLM Applications
+- ⚡ AI Agents
+- 🔥 RAG Pipelines
+- 💬 Conversational AI
+- 📊 Machine Learning
+- 🚀 Backend AI Systems
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+</div>
 
 ⚡ Currently building:
-- AI Interview Platforms
-- Recruitment AI Systems
-- WhatsApp AI Agents
-- Multi-Agent Architectures
-- Voice AI Applications
+
+- 🎯 AI Interview Platforms
+- 🤖 Recruitment AI Systems
+- 💬 WhatsApp AI Agents
+- 🧠 Multi-Agent Architectures
+- 🎤 Voice AI Applications
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+</div>
 
 🌱 Exploring:
-- Advanced Agentic AI
-- Multimodal AI
-- MCP
-- LangGraph
-- Autonomous AI Workflows
+
+- 🚀 Advanced Agentic AI
+- 👁️ Multimodal AI
+- 🔥 MCP
+- ⚡ LangGraph
+- 🧠 Autonomous AI Workflows
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+</div>
 
 💬 Ask me about:
-`Python` `FastAPI` `LLMs` `RAG` `LangChain` `CrewAI` `AI Agents` `GenAI`
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,nodejs,mongodb,postgres,docker,azure,git,github" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GenAI-purple?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # ⚡ Current Focus
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+</div>
 
 ```yaml
 Building:
@@ -61,9 +129,6 @@ Exploring:
   - LangGraph
   - MCP Servers
   - AI Infrastructure
-```
-
----
 
 # 🌐 Connect With Me
 
