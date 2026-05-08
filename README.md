@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ajaypalvai07&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -46,15 +46,15 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ajay-palvai-384750210/)" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME" target="blank">
+<a href="[https://github.com/YOUR_USERNAME](https://github.com/Ajaypalvai07)" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ajay@spearsoftech.com">
 <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="40" />
 </a>
 </p>
@@ -174,8 +174,8 @@ Telegram-based personal knowledge assistant with vector search.
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ajaypalvai07&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaypalvai07&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
@@ -183,7 +183,7 @@ Telegram-based personal knowledge assistant with vector search.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=Ajaypalvai07&theme=tokyonight" />
 </p>
 
 ---
@@ -191,7 +191,7 @@ Telegram-based personal knowledge assistant with vector search.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ajaypalvai07&theme=tokyonight&row=1&column=7" />
 </p>
 
 ---
@@ -199,7 +199,7 @@ Telegram-based personal knowledge assistant with vector search.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajaypalvai07&theme=tokyo-night" />
 </p>
 
 ---
