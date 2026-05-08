@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ajaypalvai07&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://img.shields.io/badge/Profile%20Views-77K+-blueviolet?style=for-the-badge" />
+
 </p>
 
 ---
