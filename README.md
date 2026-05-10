@@ -14,10 +14,6 @@
 
 <img src="https://img.shields.io/badge/Profile%20Views-77K+-blueviolet?style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/Ajaypalvai07?label=Followers&style=for-the-badge&color=00FFFF" />
-
-<img src="https://img.shields.io/github/stars/Ajaypalvai07?affiliations=OWNER&style=for-the-badge&color=FFD700" />
-
 </div>
 
 ---
