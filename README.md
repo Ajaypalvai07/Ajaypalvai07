@@ -2,7 +2,7 @@
 
 # 🚀 Hi 👋 I'm Ajay Palvai
 
-### 🧠 AI Engineer | 🤖 Generative AI Developer | ⚡ Full Stack AI Builder
+### 🧠 AI Engineer| ⚡ Full Stack AI Builder
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Engineer;Generative+AI+Developer;LLM+Systems+Builder;FastAPI+Developer;RAG+Pipeline+Expert;Open+Source+Contributor" />
 
